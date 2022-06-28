@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dfaca854fafdefe4abde8ffe36d8614d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Morristown Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5fb68396949254d44b3cfc8fe6c8f533, type: 3}
+  - {fileID: 12800000, guid: 0158b1cb1153ec042ae6b82e1dae752d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

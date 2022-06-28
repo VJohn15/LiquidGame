@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 0342c3c7bee95f44388ce1158d4f7143
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ashety Personal use
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f21b7286aef1deb4ca08bfe5e107e94d, type: 3}
+  - {fileID: 12800000, guid: 92cbce414aab74d46818ad8589d68831, type: 3}
+  - {fileID: 12800000, guid: 80cf0a73e760298458d192166f91d795, type: 3}
+  - {fileID: 12800000, guid: d2b2ab5d0dbaf7148b4846837ff790b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

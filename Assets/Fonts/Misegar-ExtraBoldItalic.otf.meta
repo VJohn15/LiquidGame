@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: e3a7851363406834a8a07ba460f94ca4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Misegar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f1c673b448253c6499bb2b7394c9bfd7, type: 3}
+  - {fileID: 12800000, guid: d37826831174fe74aac093a70b0244b9, type: 3}
+  - {fileID: 12800000, guid: a053137bb4b1643469b22c8a6419cc54, type: 3}
+  - {fileID: 12800000, guid: 9393b5953986ed1489453d48b64a942e, type: 3}
+  - {fileID: 12800000, guid: 226681282707973439d5615a3af24418, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

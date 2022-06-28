@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fab6f5c9e3c6bcd47b8d77e0802d206a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Light-Trail
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 025ef73a1b5b4d447ba33ea405e1747e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
